@@ -38,7 +38,7 @@ The age distribution showed that acceptances were spread across all age groups, 
 
 Students and retired customers had the highest acceptance rates by job type at 74% and 66% respectively. Blue collar workers were the least responsive at 36%.
 
-![Loan Acceptance Rate by Job Type](Loan_Acceptance_Rate_by_Job_Type____.png)
+![Loan Acceptance Rate by Job Type](Loan_Acceptance_Rate_by_Job_Type_(%).png)
 
 Single customers accepted at a higher rate than married ones. Married customers made up the largest group in both yes and no categories but their acceptance rate was lower proportionally.
 
