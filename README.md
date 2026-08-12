@@ -6,7 +6,7 @@ Banks run marketing campaigns by calling thousands of customers to offer loan pr
 
 ## The Problem
 
-Out of 45,162 customers in this dataset, 5,289 accepted the loan offer and 5,873 did not. That is an acceptance rate of just under 47%, but the dataset comes from a real Portuguese bank campaign where the original acceptance rate was much lower. The goal was to find the pattern behind who says yes.
+Out of 11,162 customers in this dataset, 5,289 accepted the loan offer and 5,873 did not. That is an acceptance rate of just under 47%, but the dataset comes from a real Portuguese bank campaign where the original acceptance rate was much lower. The goal was to find the pattern behind who says yes.
 
 ![Loan Acceptance Distribution](Loan_Acceptance_Distribution.png)
 
@@ -15,7 +15,7 @@ Out of 45,162 customers in this dataset, 5,289 accepted the loan offer and 5,873
 ## The Data
 
 **Source:** Bank Marketing Dataset, UCI Machine Learning Repository via Kaggle
-**Size:** 45,211 customer records, 17 features
+**Size:** 11,162 customer records, 17 features
 **Target variable:** deposit. yes if the customer accepted the loan offer, no if they did not.
 
 Features included age, job type, marital status, education, account balance, housing loan status, call duration, number of campaign contacts, days since last contact, and outcome of the previous campaign.
